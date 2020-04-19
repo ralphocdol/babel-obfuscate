@@ -13,12 +13,12 @@ Files/directory within convertjs/ mirrors the exact same structure within the ro
 
 To generate a converted js, run
 ```sh
-node convert.js
+npm run convert
 ```
 
 or to force convert, run:
 ```sh
-node convert.js -f
+npm run conver -- -f
 ```
 
 # Node Modules
