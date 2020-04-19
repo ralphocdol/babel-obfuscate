@@ -20,3 +20,8 @@ or to force convert, run:
 ```sh
 node convert.js -f
 ```
+
+# Node Modules
+• [babeljs](https://babeljs.io/)
+
+• [javascript-obfuscator](https://obfuscator.io/)
