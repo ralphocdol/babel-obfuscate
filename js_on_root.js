@@ -1,0 +1,1 @@
+function sum(_0x50d3ef,_0xf193bb){return _0x50d3ef+_0xf193bb;}

@@ -1,0 +1,27 @@
+{
+  "name": "babel-obfuscator",
+  "version": "1.0.0",
+  "description": "Babel then obfuscate js",
+  "main": "obfuscate.js",
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-plugin-remove-use-strict": "^1.0.1",
+    "javascript-obfuscator": "^0.27.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abacare-it-dev/aces.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abacare-it-dev/aces/issues"
+  },
+  "homepage": "https://github.com/abacare-it-dev/aces#readme"
+}

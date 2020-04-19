@@ -1,0 +1,1 @@
+var getSum=function getSum(_0x3d8968,_0x45c664){return _0x3d8968+_0x45c664;};
