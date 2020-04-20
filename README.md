@@ -18,7 +18,7 @@ npm run convert
 
 or to force convert, run:
 ```sh
-npm run conver -- -f
+npm run convert -- -f
 ```
 
 # Node Modules
